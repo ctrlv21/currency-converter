@@ -1,6 +1,7 @@
-# curry
+# currency switch
 
-A new Flutter project.
+Dummy APP developed to practice usage of APIs via currency conversion.
+
 
 ## Getting Started
 
